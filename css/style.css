@@ -1,0 +1,26 @@
+/* Regole securepassword */
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#securepass {
+    color: yellow;
+    padding: 30px; 
+}
+
+#boxpass {
+    border: 3px solid red;
+    border-radius: 5px;
+    background-color: purple;
+    margin: 0 auto;
+    margin-top: 100px;
+    text-align: center;
+}
+
+#boxpass h1 {
+    margin-top: 25px;
+    color: white;
+}
